@@ -1,7 +1,7 @@
 ![Banner](https://github.com/RabiaSid/RabiaSid/assets/120479126/4ecaacf2-42e4-4f07-9705-4703c6692c26)
 <h1 align="center">Hi 👋, I'm Rabia Azhar</h1>
 <h3 align="center">A passionate web developer with a focus on React.</h3>
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"\>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"\>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiasid&label=Profile%20views&color=0e75b6&style=flat" alt="rabiasid" /> </p>
 
