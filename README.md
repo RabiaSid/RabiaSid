@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [blakaces.co](https://blakaces.co/)
+- 🔭 I’m currently working on [Crystallite Pvt Ltd](https://blakaces.co/)
 
-- 🌱 I’m currently learning **Augular, Typescript, Reduxtoolkit**
+- 🌱 I’m currently learning **Nextjs, Typescript, SQL**
 
 - 👯 I’m looking to collaborate on [Enseedling](https://enseedling.com/)
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://www.facebook.com/rabia.siddiqui.3939503](https://www.facebook.com/rabia.siddiqui.3939503)
 
-- 💬 Ask me about **Html, css, Boatsrap, Reactjs, AntDesign, Material UI, ReactNative, Redux**
+- 💬 Ask me about **Html5, css3, Boatsrap, Reactjs, ReactNative, Redux Toolkit, Tailwind css, MongoDB, Express js, Node js**
 
 - 📫 How to reach me **rabiasid984@gmail.com**
 
